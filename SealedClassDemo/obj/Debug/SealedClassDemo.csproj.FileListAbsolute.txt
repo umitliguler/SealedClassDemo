@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\bin\Debug\SealedClassDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\bin\Debug\SealedClassDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\bin\Debug\SealedClassDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\obj\Debug\SealedClassDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\obj\Debug\SealedClassDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\SealedClassDemo\SealedClassDemo\obj\Debug\SealedClassDemo.pdb
